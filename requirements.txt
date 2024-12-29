@@ -6,5 +6,4 @@ matplotlib
 seaborn
 torch
 requests
-os
 zipfile
